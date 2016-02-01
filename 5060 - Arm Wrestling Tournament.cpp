@@ -1,6 +1,6 @@
 // Handle: Osama.F
 // Problem: 5060 - Arm Wrestling Tournament
-// Submission ID: 1771178
+// Submission ID: 1771203
 // Verdict: AC
 // Runtime: 0.053
 
